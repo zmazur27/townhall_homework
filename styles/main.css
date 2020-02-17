@@ -1,0 +1,67 @@
+    /* the styles for the elements */
+    
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+    }
+    
+    header h2 {
+        font-size: 170%;
+        text-indent: 30 px;
+        color: #800000;
+    }
+    
+    header h3 {
+        font-size: 130%;
+        font-style: italic;
+        text-indent: 30 px;
+        text-shadow: 2px 2px 8px #800000;
+    }
+    /* the styles for the header */
+    
+    header img {
+        float: left;
+    }
+    /* the styles for the section */
+    
+    main {
+        clear: left;
+    }
+    
+    main h1 {
+        font-size: 150%;
+    }
+    
+    main h2 {
+        font-size: 130%;
+        color: #800000;
+    }
+    
+    main h3 {
+        font-size: 105%;
+    }
+    
+    main a:link {
+        color: maroon;
+    }
+    /* visited link */
+    
+    main a:visited {
+        color: maroon;
+    }
+    /* mouse over link */
+    
+    main a:hover {
+        color: steelblue;
+        font-style: italic;
+    }
+    /* selected link */
+    
+    main a:active {
+        color: steelblue;
+    }
+    /* the styles for the footer */
+    
+    footer {
+        text-align: center;
+    }
